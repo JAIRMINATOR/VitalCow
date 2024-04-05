@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dfx": "^0.91.0",
+    "express": "^4.19.2"
+  }
+}
